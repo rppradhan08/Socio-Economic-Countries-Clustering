@@ -8,7 +8,7 @@ After the recent funding programs, they have been able to raise around $ 10 mill
 
 ## **Business Goal**
 
-The job is to categorize the countries using some socio-economic and health factors that determine the overall development of the country. Then we need to suggest the countries which the CEO needs to focus on the most.
+The job is to categorize the countries using socio-economic and health factors that determine the overall development of the country. Then we need to suggest the countries which the NGO needs to focus on the most.
 
 ## **Approach**
 
@@ -45,4 +45,4 @@ To determine the underlying countries multiple clustering algorithms were utiliz
 
 6. Country Recommendation
 
-For detailed explaination and analysis please refer `Clustering_Assignment.ipynb`
+For detailed explaination and analysis please refer `Clustering_Assignment.ipynb` 
